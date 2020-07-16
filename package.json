@@ -1,0 +1,22 @@
+{
+  "name": "ltetzlaff",
+  "version": "1.0.0",
+  "main": "src/index.tsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltetzlaff/ltetzlaff.git"
+  },
+  "author": "ltetzlaff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ltetzlaff/ltetzlaff/issues"
+  },
+  "homepage": "https://github.com/ltetzlaff/ltetzlaff#readme",
+  "devDependencies": {
+    "@types/node": "^14.0.23"
+  },
+  "dependencies": {
+    "preact": "^10.4.6",
+    "preact-render-to-string": "^5.1.10"
+  }
+}
